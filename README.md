@@ -1,4 +1,4 @@
-### NOTE:
+# NOTE:
 The below was an assignment i did through FreeCodeCamp. Please see my solution in "mean_var_std.py" 
 
 ## Assignment
